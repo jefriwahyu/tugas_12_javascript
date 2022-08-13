@@ -2,7 +2,7 @@
 
 <b>Tujuan : </b>
 <ul>
-  <li>Memahami Fungsi Pop dan Shift </li>
+  <li>Memahami Fungsi Pop dan Shift. </li>
 </ul>
 
 <b>Output in terminal : </b>
